@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pibby trololo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				459
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pibby trololo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				316,
+				45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pibby trololo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pibby trololo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-321
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pibby trololo down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibby_Mr.T",
+	"position": [
+		-230,
+		-150
+	],
+	"healthicon": "pibbyt",
+	"flip_x": false,
+	"healthbar_colors": [
+		207,
+		157,
+		104
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

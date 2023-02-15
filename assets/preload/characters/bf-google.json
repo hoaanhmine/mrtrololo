@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "doodlebf_idle"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "doodlebf_left"
+		},
+		{
+			"offsets": [
+				10,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "doodlebf_down"
+		},
+		{
+			"offsets": [
+				2,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "doodlebf_up"
+		},
+		{
+			"offsets": [
+				-1,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "doodlebf_right"
+		},
+		{
+			"offsets": [
+				22,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "doodlebf_missleft"
+		},
+		{
+			"offsets": [
+				18,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "doodlebf_missdown"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "doodlebf_missup"
+		},
+		{
+			"offsets": [
+				-2,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "doodlebf_missright"
+		},
+		{
+			"offsets": [
+				21,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "doodlebf_lose0"
+		},
+		{
+			"offsets": [
+				21,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "doodlebf_loseloop"
+		},
+		{
+			"offsets": [
+				14,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "doodlebf_loseconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doodleboyfriend_assets",
+	"position": [
+		80,
+		280
+	],
+	"healthicon": "doodlebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		165,
+		235
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

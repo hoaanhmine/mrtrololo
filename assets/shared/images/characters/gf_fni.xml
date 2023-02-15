@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf fni.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf fni0000" x="0" y="0" width="699" height="450" pivotX="764.7" pivotY="191" frameX="-2" frameY="-12" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0001" x="699" y="0" width="703" height="450" frameX="0" frameY="-12" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0002" x="1402" y="0" width="703" height="449" frameX="0" frameY="-13" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0003" x="2105" y="0" width="699" height="450" frameX="-2" frameY="-13" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0004" x="2804" y="0" width="699" height="450" frameX="-2" frameY="-13" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0005" x="0" y="450" width="699" height="450" frameX="-2" frameY="-13" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0006" x="699" y="450" width="699" height="451" frameX="-2" frameY="-12" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0007" x="1398" y="450" width="699" height="459" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0008" x="2097" y="450" width="699" height="459" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0009" x="2097" y="450" width="699" height="459" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0010" x="2796" y="450" width="699" height="462" frameX="-2" frameY="-1" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0011" x="2796" y="450" width="699" height="462" frameX="-2" frameY="-1" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0012" x="2796" y="450" width="699" height="462" frameX="-2" frameY="-1" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0013" x="0" y="912" width="699" height="463" frameX="-2" frameY="0" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0014" x="0" y="912" width="699" height="463" frameX="-2" frameY="0" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0015" x="699" y="912" width="699" height="458" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0016" x="1398" y="912" width="703" height="458" frameX="0" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0017" x="2101" y="912" width="703" height="455" frameX="0" frameY="-7" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0018" x="2804" y="912" width="699" height="455" frameX="-2" frameY="-7" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0019" x="0" y="1375" width="699" height="458" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0020" x="699" y="1375" width="699" height="459" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0021" x="1398" y="1375" width="699" height="460" frameX="-2" frameY="-3" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0022" x="2097" y="1375" width="699" height="459" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0023" x="2796" y="1375" width="699" height="459" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0024" x="2796" y="1375" width="699" height="459" frameX="-2" frameY="-4" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0025" x="0" y="1835" width="699" height="457" frameX="-2" frameY="-6" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0026" x="699" y="1835" width="699" height="457" frameX="-2" frameY="-6" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0027" x="699" y="1835" width="699" height="457" frameX="-2" frameY="-6" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0028" x="1398" y="1835" width="699" height="456" frameX="-2" frameY="-7" frameWidth="703" frameHeight="463"/>
+	<SubTexture name="gf fni0029" x="1398" y="1835" width="699" height="456" frameX="-2" frameY="-7" frameWidth="703" frameHeight="463"/>
+</TextureAtlas>

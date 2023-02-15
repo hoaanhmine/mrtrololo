@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Quagmire.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="QuagLeft0000" x="10" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0001" x="10" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0002" x="846" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0003" x="846" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0004" x="1682" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0005" x="1682" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0006" x="2518" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0007" x="2518" y="10" width="833" height="667"/>
+	<SubTexture name="QuagLeft0008" x="10" y="680" width="833" height="667"/>
+	<SubTexture name="QuagLeft0009" x="10" y="680" width="833" height="667"/>
+	<SubTexture name="QuagLeft0010" x="10" y="680" width="833" height="667"/>
+	<SubTexture name="QuagLeft0011" x="846" y="680" width="833" height="667"/>
+	<SubTexture name="QuagLeft0012" x="846" y="680" width="833" height="667"/>
+	<SubTexture name="QuagLeft0013" x="846" y="680" width="833" height="667"/>
+	<SubTexture name="QuagRight0000" x="1682" y="680" width="833" height="667"/>
+	<SubTexture name="QuagRight0001" x="1682" y="680" width="833" height="667"/>
+	<SubTexture name="QuagRight0002" x="2518" y="680" width="833" height="667"/>
+	<SubTexture name="QuagRight0003" x="2518" y="680" width="833" height="667"/>
+	<SubTexture name="QuagRight0004" x="10" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0005" x="10" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0006" x="846" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0007" x="846" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0008" x="1682" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0009" x="1682" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0010" x="1682" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0011" x="2518" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0012" x="2518" y="1350" width="833" height="667"/>
+	<SubTexture name="QuagRight0013" x="2518" y="1350" width="833" height="667"/>
+</TextureAtlas>

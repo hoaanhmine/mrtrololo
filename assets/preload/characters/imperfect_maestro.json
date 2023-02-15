@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Maestro_Idle"
+		},
+		{
+			"offsets": [
+				184,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Maestro_Left"
+		},
+		{
+			"offsets": [
+				38,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Maestro_Right"
+		},
+		{
+			"offsets": [
+				20,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Maestro_Down"
+		},
+		{
+			"offsets": [
+				241,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Maestro_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MaestroRemaster_Assets",
+	"position": [
+		-100,
+		-190
+	],
+	"healthicon": "trollge",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

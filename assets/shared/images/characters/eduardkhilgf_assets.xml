@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eduardkhilgf_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eduard_idle0000" x="5" y="5" width="380" height="278" frameX="0" frameY="-60" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0001" x="5" y="5" width="380" height="278" frameX="0" frameY="-60" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0002" x="390" y="5" width="370" height="283" frameX="-5" frameY="-55" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0003" x="390" y="5" width="370" height="283" frameX="-5" frameY="-55" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0004" x="765" y="5" width="346" height="305" frameX="-17" frameY="-32" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0005" x="765" y="5" width="346" height="305" frameX="-17" frameY="-32" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0006" x="5" y="315" width="336" height="313" frameX="-22" frameY="-24" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0007" x="5" y="315" width="336" height="313" frameX="-22" frameY="-24" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0008" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0009" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0010" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0011" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0012" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0013" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0014" x="684" y="315" width="309" height="338" frameX="-35" frameY="0" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0015" x="684" y="315" width="309" height="338" frameX="-35" frameY="0" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0016" x="5" y="658" width="313" height="329" frameX="-33" frameY="-8" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0017" x="5" y="658" width="313" height="329" frameX="-33" frameY="-8" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0018" x="323" y="658" width="323" height="324" frameX="-28" frameY="-14" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0019" x="323" y="658" width="323" height="324" frameX="-28" frameY="-14" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0020" x="651" y="658" width="332" height="319" frameX="-23" frameY="-19" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0021" x="651" y="658" width="332" height="319" frameX="-23" frameY="-19" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0022" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0023" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0024" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0025" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0026" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0027" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0028" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0029" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0030" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+	<SubTexture name="eduard_idle0031" x="346" y="315" width="333" height="315" frameX="-23" frameY="-22" frameWidth="380" frameHeight="338"/>
+</TextureAtlas>

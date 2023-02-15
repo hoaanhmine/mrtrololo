@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "eduardkhil_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "eduardkhil_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "eduardkhil_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "eduardkhil_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "eduardkhil_idle0"
+		},
+		{
+			"offsets": [
+				6,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "eduardkhil_idleexcitedalt"
+		},
+		{
+			"offsets": [
+				-3,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "eyebrow",
+			"loop": false,
+			"name": "eduardkhil_eyebrowdance"
+		},
+		{
+			"offsets": [
+				52,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "walk",
+			"loop": false,
+			"name": "eduardkhil_walk0"
+		},
+		{
+			"offsets": [
+				33,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "walkstop",
+			"loop": false,
+			"name": "eduardkhil_walkstop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/doodleeduard_assets",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "doodleEduard",
+	"flip_x": false,
+	"healthbar_colors": [
+		79,
+		53,
+		19
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

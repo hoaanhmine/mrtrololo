@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="futureground.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgLoop0000" x="0" y="0" width="2560" height="73" frameX="-2275" frameY="-1" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0001" x="2560" y="0" width="5121" height="74" frameX="-1990" frameY="0" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0002" x="2560" y="0" width="5121" height="74" frameX="-1706" frameY="0" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0003" x="2560" y="0" width="5121" height="74" frameX="-1421" frameY="0" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0004" x="2560" y="0" width="5121" height="74" frameX="-1137" frameY="0" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0005" x="2560" y="0" width="5121" height="74" frameX="-853" frameY="0" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0006" x="2560" y="0" width="5121" height="74" frameX="-569" frameY="0" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0007" x="2560" y="0" width="5121" height="74" frameX="-284" frameY="0" frameWidth="7111" frameHeight="74"/>
+	<SubTexture name="bgLoop0008" x="0" y="74" width="5120" height="74" frameX="0" frameY="0" frameWidth="7111" frameHeight="74"/>
+</TextureAtlas>

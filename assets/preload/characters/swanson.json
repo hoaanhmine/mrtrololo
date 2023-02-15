@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-32,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "JoeMama"
+		},
+		{
+			"offsets": [
+				71,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Joe Left"
+		},
+		{
+			"offsets": [
+				-31,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Joe Right"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Joe Down"
+		},
+		{
+			"offsets": [
+				-10,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Joe Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JoeMama",
+	"position": [
+		630,
+		-215
+	],
+	"healthicon": "eduard-fg",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		120,
+		60
+	],
+	"camera_position": [
+		-440,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

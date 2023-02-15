@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheFamilyGuyG.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Peter Idle0000" x="10" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0001" x="10" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0002" x="1900" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0003" x="1900" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0004" x="3790" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0005" x="3790" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0006" x="5680" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0007" x="5680" y="10" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0008" x="10" y="1103" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0009" x="10" y="1103" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0010" x="10" y="1103" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0011" x="10" y="1103" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0012" x="10" y="1103" width="1887" height="1090"/>
+	<SubTexture name="Peter Idle0013" x="10" y="1103" width="1887" height="1090"/>
+	<SubTexture name="Peter Left0000" x="1900" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0001" x="1900" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0002" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0003" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0004" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0005" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0006" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0007" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0008" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0009" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0010" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0011" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0012" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Left0013" x="3512" y="1103" width="1609" height="1056"/>
+	<SubTexture name="Peter Right0000" x="5124" y="1103" width="1740" height="999"/>
+	<SubTexture name="Peter Right0001" x="5124" y="1103" width="1740" height="999"/>
+	<SubTexture name="Peter Right0002" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0003" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0004" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0005" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0006" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0007" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0008" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0009" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0010" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0011" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0012" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Right0013" x="10" y="2196" width="1740" height="999"/>
+	<SubTexture name="Peter Up0000" x="1753" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0001" x="1753" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0002" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0003" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0004" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0005" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0006" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0007" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0008" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0009" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0010" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0011" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0012" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="Peter Up0013" x="3467" y="2196" width="1711" height="1044"/>
+	<SubTexture name="PeterDown0000" x="5181" y="2196" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0001" x="5181" y="2196" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0002" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0003" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0004" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0005" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0006" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0007" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0008" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0009" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0010" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0011" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0012" x="10" y="3249" width="1768" height="1050"/>
+	<SubTexture name="PeterDown0013" x="10" y="3249" width="1768" height="1050"/>
+</TextureAtlas>

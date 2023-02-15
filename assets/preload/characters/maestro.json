@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ThingIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ThingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				195
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ThingRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				568,
+				674
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ThingUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				229,
+				75
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ThingLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MaestroFinished",
+	"position": [
+		-300,
+		-320
+	],
+	"healthicon": "MaestroNew",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-160,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

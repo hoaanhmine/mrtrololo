@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scared gf evacuate.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evacuate gf idle0000" x="0" y="0" width="308" height="419" pivotX="563.8" pivotY="151.7" frameX="0" frameY="0" frameWidth="309" frameHeight="419"/>
+	<SubTexture name="evacuate gf idle0001" x="308" y="0" width="308" height="418" frameX="-1" frameY="-1" frameWidth="309" frameHeight="419"/>
+	<SubTexture name="evacuate gf idle0002" x="616" y="0" width="308" height="419" frameX="0" frameY="0" frameWidth="309" frameHeight="419"/>
+	<SubTexture name="evacuate gf idle0003" x="0" y="419" width="308" height="419" frameX="-1" frameY="0" frameWidth="309" frameHeight="419"/>
+</TextureAtlas>

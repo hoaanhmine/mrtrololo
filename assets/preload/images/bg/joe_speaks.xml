@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joe_speaks.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hey peter0000" x="16" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0001" x="16" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0002" x="761" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0003" x="1506" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0004" x="16" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0005" x="16" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0006" x="2251" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0007" x="2251" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0008" x="16" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0009" x="16" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0010" x="2996" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0011" x="2996" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0012" x="16" y="967" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0013" x="16" y="967" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0014" x="761" y="967" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0015" x="761" y="967" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0016" x="2996" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0017" x="2996" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0018" x="2996" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0019" x="2996" y="16" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0020" x="1506" y="967" width="728" height="924"/>
+	<SubTexture name="hey peter0021" x="2261" y="967" width="720" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0022" x="3008" y="967" width="720" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0023" x="16" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0024" x="16" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0025" x="761" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0026" x="761" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0027" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0028" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0029" x="2251" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0030" x="2251" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0031" x="2996" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0032" x="2996" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0033" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0034" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0035" x="2996" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0036" x="2996" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0037" x="2251" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0038" x="2251" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0039" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0040" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0041" x="16" y="2869" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0042" x="16" y="2869" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0043" x="761" y="2869" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0044" x="761" y="2869" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0045" x="761" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0046" x="761" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0047" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0048" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0049" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0050" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0051" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0052" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+	<SubTexture name="hey peter0053" x="1506" y="1918" width="718" height="924" frameX="0" frameY="0" frameWidth="728" frameHeight="924"/>
+</TextureAtlas>

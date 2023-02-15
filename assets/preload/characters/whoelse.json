@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "QuagLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "QuagRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Quagmire",
+	"position": [
+		-560,
+		-570
+	],
+	"healthicon": "eduard-fg",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		120,
+		60
+	],
+	"camera_position": [
+		-180,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

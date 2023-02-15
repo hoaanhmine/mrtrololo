@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="well_alright.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="well alright0000" x="0" y="0" width="1432" height="1116"/>
+	<SubTexture name="well alright0001" x="0" y="0" width="1432" height="1116"/>
+	<SubTexture name="well alright0002" x="0" y="0" width="1432" height="1116"/>
+	<SubTexture name="well alright0003" x="1441" y="0" width="1432" height="1115" frameX="0" frameY="-1" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0004" x="1441" y="0" width="1432" height="1115" frameX="0" frameY="-1" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0005" x="2882" y="0" width="1432" height="1114" frameX="0" frameY="-2" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0006" x="2882" y="0" width="1432" height="1114" frameX="0" frameY="-2" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0007" x="4323" y="0" width="1429" height="1113" frameX="-3" frameY="-3" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0008" x="4323" y="0" width="1429" height="1113" frameX="-3" frameY="-3" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0009" x="5761" y="0" width="1427" height="1115" frameX="-5" frameY="-1" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0010" x="5761" y="0" width="1427" height="1115" frameX="-5" frameY="-1" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0011" x="0" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0012" x="0" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0013" x="1436" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0014" x="1436" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0015" x="2872" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0016" x="2872" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0017" x="4308" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0018" x="4308" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0019" x="5744" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0020" x="5744" y="1125" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0021" x="0" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0022" x="0" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0023" x="1436" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0024" x="1436" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0025" x="2872" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0026" x="2872" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0027" x="4308" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0028" x="4308" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0029" x="5744" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0030" x="5744" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0031" x="5744" y="2250" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0032" x="0" y="3375" width="1427" height="1116" frameX="-5" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0033" x="1436" y="3375" width="1430" height="1116" frameX="-2" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0034" x="2875" y="3375" width="1430" height="1116" frameX="-2" frameY="0" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0035" x="4314" y="3375" width="1432" height="904" frameX="0" frameY="-212" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0036" x="4314" y="3375" width="1432" height="904" frameX="0" frameY="-212" frameWidth="1432" frameHeight="1116"/>
+	<SubTexture name="well alright0037" x="4314" y="3375" width="1432" height="904" frameX="0" frameY="-212" frameWidth="1432" frameHeight="1116"/>
+</TextureAtlas>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doodleeduard_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eduardkhil_down0000" x="0" y="0" width="327" height="645" frameX="-17" frameY="-4" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0001" x="0" y="0" width="327" height="645" frameX="-17" frameY="-4" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0002" x="327" y="0" width="323" height="645" frameX="-11" frameY="-4" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0003" x="327" y="0" width="323" height="645" frameX="-11" frameY="-4" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0004" x="650" y="0" width="316" height="648" frameX="0" frameY="-1" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0005" x="650" y="0" width="316" height="648" frameX="0" frameY="-1" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0006" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0007" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0008" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0009" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0010" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0011" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0012" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_down0013" x="966" y="0" width="321" height="649" frameX="-4" frameY="0" frameWidth="344" frameHeight="649"/>
+	<SubTexture name="eduardkhil_eyebrowdance0000" x="1287" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0001" x="1287" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0002" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0003" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0004" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0005" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0006" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0007" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0008" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0009" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0010" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0011" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0012" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_eyebrowdance0013" x="1598" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_idle0000" x="1909" y="0" width="311" height="642" frameX="0" frameY="-15" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0001" x="1909" y="0" width="311" height="642" frameX="0" frameY="-15" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0002" x="2220" y="0" width="311" height="643" frameX="0" frameY="-14" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0003" x="2220" y="0" width="311" height="643" frameX="0" frameY="-14" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0004" x="2531" y="0" width="311" height="648" frameX="0" frameY="-9" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0005" x="2531" y="0" width="311" height="648" frameX="0" frameY="-9" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0006" x="2842" y="0" width="311" height="655" frameX="0" frameY="-2" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0007" x="2842" y="0" width="311" height="655" frameX="0" frameY="-2" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_idle0008" x="3153" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_idle0009" x="3153" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_idle0010" x="3153" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_idle0011" x="3153" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_idle0012" x="3153" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_idle0013" x="3153" y="0" width="311" height="657"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0000" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0001" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0002" x="0" y="663" width="328" height="666" frameX="-15" frameY="0" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0003" x="0" y="663" width="328" height="666" frameX="-15" frameY="0" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0004" x="328" y="663" width="328" height="651" frameX="-15" frameY="-15" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0005" x="328" y="663" width="328" height="651" frameX="-15" frameY="-15" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0006" x="656" y="663" width="328" height="642" frameX="-15" frameY="-24" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0007" x="656" y="663" width="328" height="642" frameX="-15" frameY="-24" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0008" x="984" y="663" width="330" height="656" frameX="-13" frameY="-10" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0009" x="984" y="663" width="330" height="656" frameX="-13" frameY="-10" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0010" x="1314" y="663" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0011" x="1314" y="663" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0012" x="1314" y="663" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0013" x="1314" y="663" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0014" x="1314" y="663" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0015" x="1314" y="663" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0016" x="1314" y="663" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0017" x="1642" y="663" width="343" height="665" frameX="0" frameY="-1" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0018" x="1642" y="663" width="343" height="665" frameX="0" frameY="-1" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0019" x="1985" y="663" width="328" height="656" frameX="-15" frameY="-10" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0020" x="1985" y="663" width="328" height="656" frameX="-15" frameY="-10" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0021" x="2313" y="663" width="328" height="651" frameX="-15" frameY="-15" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0022" x="2313" y="663" width="328" height="651" frameX="-15" frameY="-15" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0023" x="2641" y="663" width="328" height="657" frameX="-15" frameY="-9" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0024" x="2641" y="663" width="328" height="657" frameX="-15" frameY="-9" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0025" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0026" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0027" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0028" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0029" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_idleexcitedalt0030" x="3464" y="0" width="328" height="663" frameX="-15" frameY="-3" frameWidth="343" frameHeight="666"/>
+	<SubTexture name="eduardkhil_left0000" x="2969" y="663" width="457" height="652" frameX="0" frameY="0" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0001" x="2969" y="663" width="457" height="652" frameX="0" frameY="0" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0002" x="3426" y="663" width="449" height="649" frameX="-13" frameY="-3" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0003" x="3426" y="663" width="449" height="649" frameX="-13" frameY="-3" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0004" x="0" y="1329" width="441" height="642" frameX="-35" frameY="-10" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0005" x="0" y="1329" width="441" height="642" frameX="-35" frameY="-10" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0006" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0007" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0008" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0009" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0010" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0011" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0012" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_left0013" x="441" y="1329" width="446" height="646" frameX="-29" frameY="-6" frameWidth="476" frameHeight="652"/>
+	<SubTexture name="eduardkhil_right0000" x="887" y="1329" width="334" height="643" frameX="0" frameY="-1" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0001" x="887" y="1329" width="334" height="643" frameX="0" frameY="-1" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0002" x="1221" y="1329" width="324" height="644" frameX="-10" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0003" x="1221" y="1329" width="324" height="644" frameX="-10" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0004" x="1545" y="1329" width="311" height="642" frameX="-35" frameY="-2" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0005" x="1545" y="1329" width="311" height="642" frameX="-35" frameY="-2" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0006" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0007" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0008" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0009" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0010" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0011" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0012" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_right0013" x="1856" y="1329" width="312" height="644" frameX="-28" frameY="0" frameWidth="346" frameHeight="644"/>
+	<SubTexture name="eduardkhil_up0000" x="2168" y="1329" width="386" height="681" frameX="-10" frameY="0" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0001" x="2168" y="1329" width="386" height="681" frameX="-10" frameY="0" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0002" x="2554" y="1329" width="408" height="675" frameX="-8" frameY="-6" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0003" x="2554" y="1329" width="408" height="675" frameX="-8" frameY="-6" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0004" x="2962" y="1329" width="439" height="658" frameX="-5" frameY="-23" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0005" x="2962" y="1329" width="439" height="658" frameX="-5" frameY="-23" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0006" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0007" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0008" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0009" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0010" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0011" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0012" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_up0013" x="3401" y="1329" width="440" height="663" frameX="0" frameY="-18" frameWidth="444" frameHeight="681"/>
+	<SubTexture name="eduardkhil_walk0000" x="315" y="2673" width="309" height="661" frameX="-41" frameY="-2" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walk0001" x="315" y="2673" width="309" height="661" frameX="-41" frameY="-2" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walk0002" x="0" y="2010" width="308" height="654" frameX="-47" frameY="-6" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0003" x="0" y="2010" width="308" height="654" frameX="-47" frameY="-6" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0004" x="308" y="2010" width="307" height="646" frameX="-61" frameY="-10" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0005" x="308" y="2010" width="307" height="646" frameX="-61" frameY="-10" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0006" x="615" y="2010" width="307" height="647" frameX="-48" frameY="-9" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0007" x="615" y="2010" width="307" height="647" frameX="-48" frameY="-9" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0008" x="922" y="2010" width="328" height="663" frameX="0" frameY="0" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0009" x="922" y="2010" width="328" height="663" frameX="0" frameY="0" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0010" x="1250" y="2010" width="313" height="661" frameX="-9" frameY="-2" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0011" x="1250" y="2010" width="313" height="661" frameX="-9" frameY="-2" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0012" x="1563" y="2010" width="311" height="654" frameX="-26" frameY="-6" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0013" x="1563" y="2010" width="311" height="654" frameX="-26" frameY="-6" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0014" x="1874" y="2010" width="307" height="646" frameX="-45" frameY="-9" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0015" x="1874" y="2010" width="307" height="646" frameX="-45" frameY="-9" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0016" x="2181" y="2010" width="353" height="646" frameX="-53" frameY="-9" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0017" x="2181" y="2010" width="353" height="646" frameX="-53" frameY="-9" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0018" x="2534" y="2010" width="315" height="662" frameX="-33" frameY="-1" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walk0019" x="2534" y="2010" width="315" height="662" frameX="-33" frameY="-1" frameWidth="406" frameHeight="663"/>
+	<SubTexture name="eduardkhil_walkstop0000" x="2849" y="2010" width="311" height="654" frameX="0" frameY="-5" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0001" x="2849" y="2010" width="311" height="654" frameX="0" frameY="-5" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0002" x="3160" y="2010" width="307" height="646" frameX="-19" frameY="-8" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0003" x="3160" y="2010" width="307" height="646" frameX="-19" frameY="-8" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0004" x="3467" y="2010" width="352" height="646" frameX="-28" frameY="-8" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0005" x="3467" y="2010" width="352" height="646" frameX="-28" frameY="-8" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0006" x="0" y="2673" width="315" height="662" frameX="-7" frameY="0" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0007" x="0" y="2673" width="315" height="662" frameX="-7" frameY="0" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0008" x="315" y="2673" width="309" height="661" frameX="-15" frameY="-1" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0009" x="315" y="2673" width="309" height="661" frameX="-15" frameY="-1" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0010" x="624" y="2673" width="307" height="658" frameX="-25" frameY="-4" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0011" x="624" y="2673" width="307" height="658" frameX="-25" frameY="-4" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0012" x="931" y="2673" width="314" height="639" frameX="-42" frameY="-23" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0013" x="931" y="2673" width="314" height="639" frameX="-42" frameY="-23" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0014" x="1909" y="0" width="311" height="642" frameX="-36" frameY="-20" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0015" x="1909" y="0" width="311" height="642" frameX="-36" frameY="-20" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0016" x="1245" y="2673" width="311" height="650" frameX="-36" frameY="-12" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0017" x="1245" y="2673" width="311" height="650" frameX="-36" frameY="-12" frameWidth="380" frameHeight="662"/>
+	<SubTexture name="eduardkhil_walkstop0018" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0019" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0020" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0021" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0022" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0023" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0024" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0025" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0026" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+	<SubTexture name="eduardkhil_walkstop0027" x="3153" y="0" width="311" height="657" frameX="-36" frameY="-5" frameWidth="311" frameHeight="657"/>
+</TextureAtlas>

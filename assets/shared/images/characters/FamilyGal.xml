@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FamilyGal.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FamilyGal0000" x="10" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0001" x="10" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0002" x="677" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0003" x="677" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0004" x="1344" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0005" x="1344" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0006" x="2011" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0007" x="2011" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0008" x="2678" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0009" x="2678" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0010" x="2678" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0011" x="3345" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0012" x="3345" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0013" x="3345" y="10" width="664" height="739"/>
+	<SubTexture name="FamilyGal0014" x="10" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0015" x="10" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0016" x="677" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0017" x="677" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0018" x="1344" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0019" x="1344" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0020" x="2011" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0021" x="2011" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0022" x="2678" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0023" x="2678" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0024" x="2678" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0025" x="3345" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0026" x="3345" y="752" width="664" height="739"/>
+	<SubTexture name="FamilyGal0027" x="3345" y="752" width="664" height="739"/>
+</TextureAtlas>

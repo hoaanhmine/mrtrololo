@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-11
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Peter Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Peter Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PeterDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-76
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Peter Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Peter Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TheFamilyGuy",
+	"position": [
+		-660,
+		-320
+	],
+	"healthicon": "eduard-fg",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		120,
+		60
+	],
+	"camera_position": [
+		-180,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

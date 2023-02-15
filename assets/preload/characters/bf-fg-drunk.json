@@ -1,0 +1,196 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				26
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LeftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				-29
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				33
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-46
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DownMiss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				563,
+				32
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BarfLoop",
+			"indices": [
+				39,
+				40
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				563,
+				32
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BarfLoop",
+			"indices": [
+				39,
+				40
+			]
+		},
+		{
+			"offsets": [
+				563,
+				32
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "BarfLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FGBF_drunk",
+	"position": [
+		-60,
+		160
+	],
+	"healthicon": "bf-fg",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		335,
+		-115
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
